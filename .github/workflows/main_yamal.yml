@@ -52,4 +52,4 @@ jobs:
           app-name: 'Yamal'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7AB8792881A54C9497761A74CF1D20DA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_35DAB983E95E4BE193DACF75B5F850DA }}
